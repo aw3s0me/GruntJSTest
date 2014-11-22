@@ -1,0 +1,13 @@
+{
+    "name": "Grunt_tutorial",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-cssmin": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-remove-logging": "*"
+    }
+}
